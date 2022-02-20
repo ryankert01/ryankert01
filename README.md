@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![ryankert01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankert01&hide=contribs,prs&theme=tokyonight&show_icons=true)
 
-
+```
     <pre>
         <code class="javascript">
           $(document).ready(function() {
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
           });
         </code>
       </pre>
-
+```
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
