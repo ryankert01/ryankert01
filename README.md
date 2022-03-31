@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![ryankert01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankert01&hide=contribs,prs&theme=tokyonight&show_icons=true)
+![ryankert01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankert01&theme=tokyonight&show_icons=true)
 
-
+&hide=contribs,prs
 ```
 cool!
 ```
