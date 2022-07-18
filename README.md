@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ```
 cool!
 ```
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ryankert?theme=dark&font=Noto%20Serif%20SC)
