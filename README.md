@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 cool!
 ```
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ryankert?theme=dark&font=Coming%20Soon)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ryankert?theme=dark&font=Coming%20Soon) -->
