@@ -1,25 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ryankert01/ryankert01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a front-end dev
+- 🌱 I’m currently learning back-end stuff
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: ryan@ryankert.cc
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning sone thing...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ![ryankert01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankert01&theme=tokyonight&show_icons=true)
 
-```
-cool!
-```
+
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ryankert?theme=dark&font=Coming%20Soon) -->
