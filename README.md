@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently a front-end dev
 - 🌱 I’m currently learning back-end stuff
-- 📫 reach my with email: ryan@ryankert.cc
-- 🏙 visist my [blog](https://blog.ryankert.cc)
+- 📫 Reach my with email: ryan@ryankert.cc
+- 🏙 Visit my [blog](https://blog.ryankert.cc)
 
 
 
