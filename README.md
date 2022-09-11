@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a web dev at @TechOptimum, and core team at @gdscyzu
-- 🌱 I’m currently learning back-end stuff
+- 🔭 I’m currently a web dev at [@TechOptimum](https://github.com/TechOptimum), and core team at [@gdscyzu](https://github.com/gdscyzu).
+- 🌱 I’m currently learning web dev stuff
 - 📫 Reach my with email: ryan@ryankert.cc
 - 🏙 Visit my [blog](https://blog.ryankert.cc)
 
