@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a front-end dev
+- 🔭 I’m currently a web dev at @TechOptimum, and core team at @gdscyzu
 - 🌱 I’m currently learning back-end stuff
 - 📫 Reach my with email: ryan@ryankert.cc
 - 🏙 Visit my [blog](https://blog.ryankert.cc)
