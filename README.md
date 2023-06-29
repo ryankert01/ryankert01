@@ -3,7 +3,7 @@
 CS student and fullstack developer with a passion for ML. Building projects to make the world a better place.
 
 
-- 🔭 I’m currently a web dev at [@TechOptimum](https://github.com/TechOptimum), and core team at [@gdscyzu](https://github.com/gdscyzu).
+- 🔭 I’m currently a core team at [@gdscyzu](https://github.com/gdscyzu).
 - 📫 Reach my with email: ryan@ryankert.cc
 - 🏙 Visit my [blog](https://blog.ryankert.cc)
 
