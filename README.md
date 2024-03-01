@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-CS student and fullstack developer with a passion for ML. Building projects to make the world a better place.
+CS student based on Taoyuan city, Taiwan.
 
 
 - 🔭 I’m a retired core team at [@gdscyzu](https://github.com/gdscyzu).
