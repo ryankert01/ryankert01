@@ -14,4 +14,4 @@ CS student based on Taoyuan city, Taiwan.
 
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ryankert?theme=dark&font=Coming%20Soon) -->
-![](https://visitor-badge.glitch.me/badge?page_id=ryankert01.ryankert01)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ryankert01.ryankert01) -->
