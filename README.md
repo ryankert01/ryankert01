@@ -3,8 +3,8 @@
 CS student based on Taoyuan city, Taiwan.
 
 - Actively contribute on [@apache/yunikorn](https://yunikorn.apache.org/)
-- 🔭 I’m a retired core team at [@gdscyzu](https://github.com/gdscyzu).
-- 📫 Reach my with email: ryan@ryankert.cc
+- 🔭 a retired core team leader at [@gdscyzu](https://github.com/gdscyzu).
+- 📫 Reach me with email: ryan@ryankert.cc
 - 🏙 Visit my [blog](https://blog.ryankert.cc)
 
 
