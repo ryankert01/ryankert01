@@ -3,7 +3,7 @@
 
 - Actively contribute on [@linkedin/liger-kernel](https://github.com/linkedin/Liger-Kernel), [@apache/yunikorn](https://yunikorn.apache.org/), view my [contributions on yunikorn](https://github.com/search?q=author%3Aryankert01+org%3Aapache&type=commits). (Note: In Yunikorn, we merge PRs by closing it via auto merge script, so all my PRs are closed via commit. Most of them is actually approved and commited)
 - 🔭 a retired core team leader at [@gdscyzu](https://github.com/gdscyzu).
-- 📫 Reach me with email: ryan@ryankert.cc
+- 📫 Reach me with email: ryankert01@gmail.com
 - 🏙 Visit my [blog](https://blog.ryankert.cc)
 
 
