@@ -3,7 +3,7 @@
 
 - 🔭 a retired core team leader at [@gdscyzu](https://github.com/gdscyzu).
 - 📫 Reach me with email: ryankert01@gmail.com
-- 🏙 Visit my [blog](https://blog.ryankert.cc)
+- 🏙 Visit my [blog](https://light.ryankert.cc)
 
 
 
