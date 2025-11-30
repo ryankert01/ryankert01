@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+- Actively contribute on [@linkedin/liger-kernel](https://github.com/linkedin/Liger-Kernel), [@apache/yunikorn](https://yunikorn.apache.org/), view my [contributions on yunikorn](https://github.com/search?q=author%3Aryankert01+org%3Aapache&type=commits). 
+- 🔭 a MSC student studying HPC/MLSys
 - 📫 Reach me with email: ryankert01@gmail.com
-- 🏙 Visit my [blog](https://light.ryankert.cc)
+- 🏙 Visit my [blog](https://blog.ryankert.cc)
 
 
 
